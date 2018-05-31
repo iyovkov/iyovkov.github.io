@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deploying CVA 
 
 ## Overview:
@@ -115,3 +116,9 @@ For MSVMC we will use only Raffia, Ansible and BigFix.
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -  sudo apt-get install -y nodejs
 
 ## Deploying Raffia
+=======
+# iyovkov.github.io
+Test for GitHub pages
+
+https://github.com/iyovkov/iyovkov.github.io/blob/master/Testing.md
+>>>>>>> 12ffbc3b3ad7593c043b8b5cc7d3126931cc110b
