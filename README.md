@@ -1,8 +1,8 @@
-# Deploying CVA 
+# Deploying CCCC
 
 ## Overview:
 
-**CVA** stands for **C**lient **V**irtual **A**ppliance. The CVA is not finalized, so the necessary containers will be deployed manually for the moment. It will be owned and managed by Platform DXC and it contains the following containers.
+The CCC is not finalized, so the necessary containers will be deployed manually for the moment. It will be owned and managed by CCCC and it contains the following containers.
 
 - Raffia
 - Ansible
